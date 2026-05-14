@@ -1,6 +1,10 @@
 # Projekt Grupowy
 
-This is our group project – a web application built with **ASP.NET**.
+This is our group project – a web application built with **ASP.NET Core**.
+
+## Newer Version
+A newer version of this project can be found here:
+https://github.com/hgf700/Event_App_Group_Project
 
 ## Hosting and Deployment
 
